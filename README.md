@@ -88,6 +88,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ### Acknowledgments
 [React Native](https://reactnative.dev/)
+
 [OneSignal](https://onesignal.com/)
+
 [React Native Vector Icons](https://github.com/oblador/react-native-vector-icons)
 
